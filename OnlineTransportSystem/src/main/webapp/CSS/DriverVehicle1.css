@@ -1,0 +1,77 @@
+@charset "ISO-8859-1";
+
+.box{
+	background: white;
+	margin: 80px 30% 50px 30%;
+	box-shadow: 3px 5px 5px 3px rgba(0,0,0,0.15);
+	border-radius: 15px;
+	padding:20px;
+	align-items: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box form{
+	padding: 0 45px;
+	box-sizing: border-box;
+}
+h1{
+	padding: 20px;
+	font-size: 35px;
+	text-align: center;
+	border-bottom: 1px solid darkgray;
+}
+
+.text-box{
+	position: relative;
+	margin: 12px 0;
+}
+.text-box label{
+	font-size: 17px;
+}
+.date{
+	width: 100%;
+}
+.timedrop{
+	width: 20%;
+}
+.addbtn{
+	width: 150px;
+	height: 50px;
+	background: black;
+	color: white;
+	border: none;
+	border-radius: 25px;
+	margin-top: 10px;
+}
+.addbtn:hover{
+	cursor: pointer;
+	background: darkblue;
+}
+table{
+	margin: 7% 10% 100px 10%;
+	border-collapse: collapse; 
+	border: 1px solid black;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table th{
+	padding: 5px 40px 5px 40px;
+	border: 1px solid black;
+	background-color: beige;
+	
+}
+table td{
+	padding: 5px 5px 5px 5px;
+	border: 1px solid black;
+	text-align: center;
+}
+.operatorbtn{
+	padding: 4px 7px 4px 7px;
+	background: black;
+	color: white;
+	border: none;
+	margin: 5px;
+	border-radius: 4px;
+}
+.operatorbtn:hover{
+	background: rgb(29, 41, 56);
+}

@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.feedbackCard{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: aliceblue;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+	padding: 10px 30px 30px 30px;
+}
+h3{
+	font-size: 15px;
+}
+p{
+	margin-bottom: 2%;
+}
+.feedbtn{
+	padding: 4px 10px 4px 10px;
+}

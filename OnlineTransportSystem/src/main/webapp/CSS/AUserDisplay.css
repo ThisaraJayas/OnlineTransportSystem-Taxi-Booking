@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+table{
+	margin: 7% 10% 100px 10%;
+	border-collapse: collapse; 
+	border: 1px solid black;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table th{
+	padding: 5px 55px 5px 55px;
+	border: 1px solid black;
+}
+table td{
+	padding: 5px 10px 5px 10px;
+	border: 1px solid black;
+	text-align: center;
+}
+.operatorbtn{
+	padding: 4px 7px 4px 7px;
+	background: black;
+	color: white;
+	border: none;
+	margin: 5px;
+	border-radius: 4px;
+}
+.operatorbtn:hover{
+	background: rgb(29, 41, 56);
+}

@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: rgb(243, 243, 243);
+}
+
+.box {
+	background: rgb(255, 255, 255);
+	margin: 50px 30% 50px 30%;
+	padding: 20px;
+	align-items: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box form {
+	padding: 0 45px;
+	box-sizing: border-box;
+}
+
+input {
+	width: 100%;
+	padding: 7px;
+	font-size: 12px;
+}
+
+h1 {
+	padding: 20px;
+	font-size: 35px;
+	text-align: center;
+	border-bottom: 1px solid darkgray;
+}
+
+.text-box {
+	position: relative;
+	margin: 12px 0;
+}
+
+.text-box label {
+	font-size: 17px;
+}
+
+.addbtn {
+	width: 100px;
+	height: 45px;
+	background: black;
+	color: white;
+	border: none;
+	margin-top: 10px;
+	align-items: center;
+}
+
+.addbtndriver {
+	width: 100px;
+	height: 45px;
+	background: black;
+	color: white;
+	border: none;
+	margin-top: 10px;
+	align-items: center;
+	margin-left: 46%;
+	margin-top: 3%;
+}
+
+.addbtndriver:hover {
+	cursor: pointer;
+	background: rgb(32, 32, 32);
+}
+
+.addbtn:hover {
+	cursor: pointer;
+	background: rgb(32, 32, 32);
+}

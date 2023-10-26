@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+.maincontent{
+	display: flex;
+	justify-content: space-evenly;
+	margin: 10px 20px 45px 20px;
+	font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+}
+.bookingImage{
+	width: 100%;
+	height: auto;
+}
+.bookingsection{
+	margin-top: 10px;
+}
+.bookingsection h2{
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+.bookingsection .text1{
+	font-size: 20px;
+	margin-bottom: 8px;
+	margin-top: 12px;
+	
+}
+.bookingsection .locationsearch{
+	padding: 10px;
+	width: 270px;
+	font-size: 16px;
+}
+.calender{
+	padding: 5px;
+	width: 100px;
+	font-size: 14px;
+	border-radius: 30px;
+}
+.timedrop{
+	padding: 5px;
+	width: 50px;
+	font-size: 14px;
+}
+.vehiclesearch{
+	width: 150px;
+	height: 50px;
+	background: black;
+	color: white;
+	border: none;
+	border-radius: 25px;
+	font-size: 16px;
+}
+.vehiclesearch:hover{
+	cursor: pointer;
+	background: darkblue;
+}
+.headbox{
+	margin-top: 20px;
+	padding: 20px 0px 20px 60px;
+	width: 100%;
+	background-color: #e6f2ed;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.headbox a{
+	color: black;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

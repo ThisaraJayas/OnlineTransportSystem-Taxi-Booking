@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+.control1{
+	background-color: white;
+	padding: 5px 15px;
+	margin-right: 0px;
+	color: black;
+	font-weight: 500;
+	font-size: 19px;
+}

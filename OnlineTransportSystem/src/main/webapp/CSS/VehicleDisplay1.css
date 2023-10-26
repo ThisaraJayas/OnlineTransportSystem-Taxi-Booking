@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+main{
+	margin-top: 6%;
+	margin-bottom: 8%;
+}
+.vehiclecard{
+	height: auto;
+	margin: 30px 10% 30px 10%;
+	padding: 15px 20px 15px 0px;
+	border-radius: 20px;
+	background: white;
+	box-shadow: 3px 5px 5px 3px rgba(0,0,0,0.15);
+	
+}
+.card{
+	display: flex;
+	justify-content: space-evenly;
+	
+}
+.bookingImage{
+	width: 100%;
+	height: 120px;
+	margin-left: 5%;
+}
+.textsection{
+	margin: 20px 0 10px 4%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.price{
+	margin-left: 15%;
+	margin-top: 15px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bookbtn{
+	width: 150px;
+	height: 50px;
+	background: black;
+	color: white;
+	border: none;
+	border-radius: 25px;
+	margin-top: 25%;
+	cursor: pointer;
+}
+.bookbtn:hover{
+	cursor: pointer;
+	background: darkblue;
+}
