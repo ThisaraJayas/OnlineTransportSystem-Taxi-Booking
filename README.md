@@ -1,5 +1,5 @@
 # OnlineTransportSystem-Taxi-Booking
-Images of the System:
+UI Images of the System:
 
 ![Screenshot (810)](https://github.com/ThisaraJayas/OnlineTransportSystem-Taxi-Booking/assets/124505409/8f57defe-988c-4a70-8141-a04ec68f933c)
 
